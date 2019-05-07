@@ -3,7 +3,7 @@ codes for DAWN training on CIFAR10 using one v100 on Baidu Cloud
 
 Training
 --------
-Training a small network(BaiduNet9) to reach 94.0% test accuracy on CIFAR10 data using one Baidu Cloud Tesla V100 GPU.
+Training a small network(BaiduNet9) to reach 94.0% test accuracy on CIFAR10 data using one Baidu Cloud Tesla V100 GPU with 16 GB memory.
 
 To reproduce our results, after logging into Baidu Cloud, just type:
 
